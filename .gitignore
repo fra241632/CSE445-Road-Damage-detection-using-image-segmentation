@@ -1,0 +1,24 @@
+# Kaggle API
+kaggle.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pt
+
+# Dataset
+dataset/
+datasets/
+*.zip
+
+# Colab cache
+sample_data/
+
+# OS files
+desktop.ini
+.DS_Store
